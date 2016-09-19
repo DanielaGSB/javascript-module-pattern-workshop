@@ -1,5 +1,5 @@
 "use strict";
 
 window.addEventListener("load", function() {
-  console.log("interrobang:", interrobang(exclaim, question, "JavaScript"));
+  console.log("interrobangsmiley:", interrobangsmiley(exclaim, question, "JavaScript"));
 });
